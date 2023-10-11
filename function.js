@@ -132,3 +132,7 @@ if (age < 18) {
 }
 
 welcome(); // ok now
+
+
+
+//ref   https://javascript.info/function-expressions
