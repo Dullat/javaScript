@@ -4,6 +4,7 @@
   "description": "learning java script",
   "main": "advanceFunction.js",
   "scripts": {
+    "start": "node test.spec.js",//script
     "test": "jest --coverage"
   },
   "keywords": [],
